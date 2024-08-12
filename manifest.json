@@ -1,0 +1,11 @@
+{
+    "id": "askjdka",
+    "name": "aniwave",
+    "description": "aniwave",
+    "manifestURI": "",
+    "version": "1.0.0",
+    "author": "Sean",
+    "type": "online-streaming-provider",
+    "language": "language",
+    "payload": ""
+}
